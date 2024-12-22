@@ -18,6 +18,13 @@ Below are the calculated statistics:
 ```
 Higher education percentage: 46.5%
 Percentage of people with higher education earning >50K: 25.5%
-```  
+```
+---
+
+## License
+This repository is licensed under the MIT License. Feel free to use and modify the code as needed.
 
 ---
+
+## Acknowledgements
+Special thanks to my learning platform and mentors for guiding me through these projects.
